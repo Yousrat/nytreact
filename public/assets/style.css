@@ -1,0 +1,114 @@
+/*!
+ * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+/*background:url("../images/egypt-h-bg3.jpg");*/
+}
+
+/*.container{
+  width: 80%;
+}*/
+
+#Results{
+float: left;
+display: inline-block;
+width: 50%;
+}
+
+#Saved{
+display: inline-block;
+width: 50%;
+}
+
+#logo{
+  background-color: #cccccc;
+  width:700px;
+    height:100px;
+    margin-top: 20px;
+
+}
+
+#search-form{
+margin-left: 110px;
+}
+
+/*.container{
+ margin-top: 20px;
+ margin-bottom: 20px;*/
+ /*background-color: blue;*/
+
+ /*background:url("../images/old-book-trans.png");*/
+ /* padding-left: 100px;
+}*/
+
+p {
+  font-size: 100px;
+  color: white;
+  margin-left: 40px;
+  
+}
+
+
+.gif{
+width: 150px;
+height: 150px;
+
+}
+
+h2 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 1500;
+  font-size: 50px;
+  margin-top: 30px;
+  color: brown;
+  position: relative;
+  float:left;
+}
+h3 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 1000;
+  font-size: 28px;
+  text-align: center;
+    color: white;
+
+}
+
+.Ghead {
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 5px;
+  margin-left: -15px;
+  margin-top: 5px;
+  font-size: 60px;
+  font-weight: 1000;
+}
+
+.Ginstruct{
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: white;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 5px;
+      position: relative;
+
+}
+
+.panel-heading{
+  text-align: center;
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
