@@ -21,7 +21,7 @@ handleSubmit: function(event) {
 
     // Set the parent to have the search term
     this.props.setTerm(this.state.term);
-    this.setState({ term: "" });
+    // this.setState({ term: "" });
   },
   
   render: function() {

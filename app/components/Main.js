@@ -41,6 +41,7 @@ getInitialState: function() {
 
 setTerm: function(term) {
     this.setState({ searchTerm: term });
+    console.log(term);
   },
 
 
